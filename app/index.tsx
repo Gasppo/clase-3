@@ -7,7 +7,7 @@ export default function Index() {
       style={{
         flex: 1,
         justifyContent: "flex-start",
-        alignItems: "center",
+        alignItems: "flex-end",
       }}
     >
       <Contador />
